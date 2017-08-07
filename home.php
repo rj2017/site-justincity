@@ -32,7 +32,6 @@ $(document).ready(function(){
 				<h2>Regras e informações:</h2>
 					<ul>
 						<li>Basquetes aos sabados(manhã ou tarde)</li>
-						<li>Incrições até a quinta-feira.</li>
 						<li>Treinamento e rachões.</li>
 					</ul>
 				</div><!--container-list-->
@@ -78,6 +77,14 @@ $(document).ready(function(){
 				<div class="container-3-eventos">
 
 				<div class="wraper-eventos">
+						<div class="informacoes-eventos" goto="x3-sorteio">
+							<h2>Sorteio dos Jogos realizado</h2>
+							<p>Veja quais serão seus oponentes.</p>
+							<p>click para saber mais.</p>
+						</div>
+					</div><!-- wraper-eventos -->
+
+				<div class="wraper-eventos">
 					<div class="informacoes-eventos" goto='campeonato-3x3'>
 							<h2>Inscrição 3x3 Justin City</h2>
 							<p>Inscreva seu time</p>
@@ -101,16 +108,6 @@ $(document).ready(function(){
 							<P>Local: Quadra do Girassol</P>
 					</div><!--informacoes-eventos-->
 				</div><!-- wraper-eventos -->
-
-
-
-					<div class="wraper-eventos">
-						<div class="informacoes-eventos" goto="x3">
-							<h2>Vem aí Campeonato x3 Justin City</h2>
-							<p>Será realizado no mês de agosto</p>
-							<p>click para saber mais.</p>
-						</div>
-					</div><!-- wraper-eventos -->
 
 					<div class="wraper-eventos">
 						<div class="informacoes-eventos" goto="uniforme">

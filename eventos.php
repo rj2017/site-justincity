@@ -24,6 +24,15 @@ $(document).ready(function(){
 	<?php include("menu.php") ?>
 	<div class="container-eventos">
 
+						<div class="wrap-eventos" id="x3-sorteio">
+
+							<h2>Sorteio dos jogos 3x3</h2>
+								
+								<p style="text-align: center;"><a href="videos#sorteio">Vídeo do sorteio online</p></a>
+							<img src="images/sorteio.jpg" style=" width: 90%">
+
+						</div>
+
 						<div class="wrap-eventos" id="campeonato-3x3">
 							<h2>Inscrição 3x3 Justin City</h2>
 							<p>Data: Domingo dia 13/08/2017 às 08:30</p>

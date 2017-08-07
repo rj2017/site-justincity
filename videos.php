@@ -23,6 +23,17 @@ $(document).ready(function(){
 <body>
 	<?php include("menu.php") ?>
 		<div class="container-videos">
+
+			<div class="wrap-videos" id="sorteio">
+				<div class="titulo-videos">
+					<h2>Sorteio Chaves campeonato 3x3</h2>
+					<p>Justin City</p>
+				</div><!--titulo-videos-->
+				<div class="video">
+				<iframe src="https://www.youtube.com/embed/SgH8ii2aJz4" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div><!--wrap-videos-->
+
 			<div class="wrap-videos">
 				<div class="titulo-videos">
 					<h2>Racha dia 1 maio</h2>
